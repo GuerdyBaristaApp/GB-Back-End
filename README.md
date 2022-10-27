@@ -1,6 +1,6 @@
 # GB-Back-End
 Self-Guided Project
-Bailey is opening a new Barista training academy called Bailey's Barista Bar and needs help building a portal for her Baristas in training. You are competeing against other tech firms and developers for this project, so be sure to refine your project so that it is functional and can be showcased well.
+Bailey is opening a new Barista training academy called Bailey's Barista Bar and needs help building a portal for her Baristas in training. You are competing against other tech firms and developers for this project, so be sure to refine your project so that it is functional and can be showcased well.
 
 Below you'll find the requirements for the application Bailey needs.
 
